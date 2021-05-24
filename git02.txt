@@ -1,5 +1,5 @@
 Nombre: Luis Daniel López Wong
 Grado Y Grupo: 3C
 Materia: Aplicaicones Web
-Desarrollo de Software
+Area: Desarrollo de Software
 Universidad UTez
